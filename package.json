@@ -23,5 +23,10 @@
   },
   "resolutions": {
     "@aws-sdk/credential-providers": "3.256.0"
-  }
+  },
+  "engines": {
+    "node": "18.13.0",
+    "pnpm": "7.22.0"
+  },
+  "packageManager": "pnpm@7.22.0"
 }
