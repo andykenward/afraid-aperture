@@ -20,5 +20,8 @@
     "aws-cdk-lib": "2.55.0",
     "constructs": "10.1.156",
     "astro-sst": "^2.0.0-rc.18"
+  },
+  "resolutions": {
+    "@aws-sdk/credential-providers": "3.256.0"
   }
 }
